@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>CreateanAccount</name>
+   <tag>@somke, @regression</tag>
+   <comment></comment>
+   <testCaseGuid>a7fecf92-98c7-4705-b118-d0acf1560e13</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalVariableEntities>
+   <description></description>
+   <name>Staging</name>
+   <tag></tag>
+   <defaultProfile>false</defaultProfile>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'C:\\Users\\PATAN MUNNA\\Downloads\\POS_Staging_ELO_Universal_13th_May_2023_4.0.9.106 (2).apk'</initValue>
+      <name>StartApp</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'noushad.pathna@eigital.com'</initValue>
+      <name>Username</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'Noushad@123'</initValue>
+      <name>Pswd</name>
+   </GlobalVariableEntity>
+</GlobalVariableEntities>

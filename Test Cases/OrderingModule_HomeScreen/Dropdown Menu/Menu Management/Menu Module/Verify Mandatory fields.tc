@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Verify Mandatory fields</name>
+   <tag>@smoke</tag>
+   <comment></comment>
+   <testCaseGuid>f3c57235-cc57-4b94-810f-82a3efcdfa98</testCaseGuid>
+</TestCaseEntity>

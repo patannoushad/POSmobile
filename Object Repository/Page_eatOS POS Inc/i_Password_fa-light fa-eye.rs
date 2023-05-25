@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_Password_fa-light fa-eye</name>
+   <tag></tag>
+   <elementGuidId>f7e2c095-2066-451d-a870-031871b41796</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@id='password-addon']/p/i</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>i.fa-light.fa-eye</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>26c41c40-7082-44d2-97eb-e19be9f6850a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fa-light fa-eye</value>
+      <webElementGuid>7e0cf651-fa32-451e-a18c-c692b8739f8f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;password-addon&quot;)/p[@class=&quot;ng-star-inserted&quot;]/i[@class=&quot;fa-light fa-eye&quot;]</value>
+      <webElementGuid>47e5a10c-98d8-4863-bd4c-12f44eb2151d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//button[@id='password-addon']/p/i</value>
+      <webElementGuid>7aae3dbf-0783-4520-b41d-f9f63c97e90f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//i</value>
+      <webElementGuid>ed6607a5-2d01-4a9f-ae79-8d869483eb2d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

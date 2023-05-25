@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify Archive and restore In Categories</description>
+   <name>Verify Archive and restore In Categories</name>
+   <tag>@smoke</tag>
+   <comment></comment>
+   <testCaseGuid>4107424e-dcca-4355-995d-3124568e12c2</testCaseGuid>
+</TestCaseEntity>
